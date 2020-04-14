@@ -1,0 +1,4 @@
+dependencies {
+	// Required for Flurry Analytics integration
+	implementation 'com.flurry.android:analytics:11.4.0@aar'
+}
