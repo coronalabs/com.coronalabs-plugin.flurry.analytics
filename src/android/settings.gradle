@@ -1,0 +1,6 @@
+rootProject.name = "Flurry Analytics"
+include("app", "plugin")
+
+if (settings.hasProperty('coronaExpansionFileName')) {
+	include("preloadedAssets")
+}

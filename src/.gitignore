@@ -1,0 +1,9 @@
+android/app/src/main/assets
+*xcuser*
+.gradle/
+.idea/
+/ios_/
+/tvos_/
+build/
+
+BuiltPlugin/

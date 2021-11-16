@@ -1,6 +1,0 @@
-framework module Corona_plugin_flurry_analytics {
-  umbrella header "Corona_plugin_flurry_analytics.h"
-
-  export *
-  module * { export * }
-}
