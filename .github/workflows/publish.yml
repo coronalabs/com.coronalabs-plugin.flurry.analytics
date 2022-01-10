@@ -4,6 +4,7 @@ on:
       - 'plugins/**'
       - 'docs/**'
   repository_dispatch:
+  workflow_dispatch:
 
 jobs:
   publish-release:
