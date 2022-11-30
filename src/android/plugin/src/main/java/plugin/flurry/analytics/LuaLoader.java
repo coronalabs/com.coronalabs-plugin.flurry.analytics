@@ -45,7 +45,7 @@ import com.flurry.android.FlurryEventRecordStatus;
  */
 public class LuaLoader implements JavaFunction, CoronaRuntimeListener {
     private static final String PLUGIN_NAME = "plugin.flurry.analytics";
-    private static final String PLUGIN_VERSION = "1.5.3";
+    private static final String PLUGIN_VERSION = "1.5.4";
     private static final String PLUGIN_SDK_VERSION = FlurryAgent.getReleaseVersion();
 
     private static final String EVENT_NAME = "analyticsRequest";

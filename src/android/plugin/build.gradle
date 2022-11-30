@@ -13,7 +13,7 @@ android {
 
 dependencies {
     implementation ':Corona@aar'
-    implementation 'com.flurry.android:analytics:13.0.1'
+    implementation 'com.flurry.android:analytics:14.0.0'
 }
 
 task extractPluginJar() {
